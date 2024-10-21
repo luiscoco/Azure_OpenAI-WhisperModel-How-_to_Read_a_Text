@@ -12,6 +12,8 @@ We select the **Azure OpenAI** service
 
 We input the definition data 
 
+![image](https://github.com/user-attachments/assets/074da549-5093-413a-90f4-cb8dbbb8ea03)
+
 We select the **Sweeden Central** Region
 
 ![image](https://github.com/user-attachments/assets/fedb0707-ded5-49d8-8600-0c3800612811)
