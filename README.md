@@ -6,7 +6,7 @@ https://cloudconvert.com/m4a-to-mp3
 
 **Note:** for more information about this sample see the official Microsoft web page
 
-https://learn.microsoft.com/en-us/azure/ai-services/openai/dall-e-quickstart
+https://learn.microsoft.com/en-us/azure/ai-services/openai/whisper-quickstart
 
 ## 1. Create an Azure OpenAI service and deploy a Whisper model
 
