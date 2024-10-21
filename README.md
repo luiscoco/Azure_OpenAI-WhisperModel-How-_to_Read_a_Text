@@ -6,6 +6,12 @@ https://cloudconvert.com/m4a-to-mp3
 
 ## 1. Create an Azure OpenAI service and deploy a Whisper model
 
+We select the **Azure OpenAI** service
+
+![image](https://github.com/user-attachments/assets/01c8c261-3af3-4dbd-ae35-20da18cab2c4)
+
+We input the definition data 
+
 We select the **Sweeden Central** Region
 
 ![image](https://github.com/user-attachments/assets/fedb0707-ded5-49d8-8600-0c3800612811)
