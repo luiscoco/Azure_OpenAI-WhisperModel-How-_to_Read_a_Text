@@ -1,12 +1,12 @@
-﻿using Azure;
+using Azure;
 using Azure.AI.OpenAI;
 using Azure.Identity; // Required for Passwordless auth
 
-var endpoint = new Uri("YOUR_OPENAI_ENDPOINT");
-var credentials = new AzureKeyCredential("YOUR_OPENAI_KEY");
+var endpoint = new Uri("https://whisperluismodel.openai.azure.com/");
+var credentials = new AzureKeyCredential("XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX");
 
 var deploymentName = "whisper"; // Default deployment name, update with your own if necessary
-var audioFilePath = "C:\\AzureOpenAI_WhisperModel\\";
+var audioFilePath = "C:\\14. Blazor LCE Youtube channel\\file1.mp3";
 
 var openAIClient = new AzureOpenAIClient(endpoint, credentials);
 
