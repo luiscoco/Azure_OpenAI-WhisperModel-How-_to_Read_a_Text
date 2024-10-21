@@ -60,3 +60,5 @@ foreach (var item in result.Value.Text)
 }
 ```
 
+## 3. We run the application and see the result
+
