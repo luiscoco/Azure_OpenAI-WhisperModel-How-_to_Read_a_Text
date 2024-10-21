@@ -1,12 +1,16 @@
 # How to convert MP3 audio file to Text with Azure OpenAI Whisper model
 
-
 **Note**: for converting the Audio **m4a** file (created with the Recorder application) into **mp3** file please use this link:
 
 https://cloudconvert.com/m4a-to-mp3
 
 ## 1. Create an Azure OpenAI service and deploy a Whisper model
 
+![image](https://github.com/user-attachments/assets/fedb0707-ded5-49d8-8600-0c3800612811)
+
+![image](https://github.com/user-attachments/assets/4f790b07-e67b-4a89-be08-6bafdf14996c)
+
+![image](https://github.com/user-attachments/assets/16b24ccd-e549-4468-99f6-0525d02a4e64)
 
 ## 2. Create a C# Console application with Visual Studio 2022
 
@@ -62,3 +66,4 @@ foreach (var item in result.Value.Text)
 
 ## 3. We run the application and see the result
 
+![image](https://github.com/user-attachments/assets/6c53e365-bb20-4d99-a2e0-6f5ceb94036e)
